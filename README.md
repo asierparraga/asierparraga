@@ -8,8 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop optimizing tools for my day to day tasks.\
 🎓 &nbsp;I'm currently studying Computer Science in Universitat Politècnica de Catalunya, Spain.\
 🌱 &nbsp;I'm on track for learning more about Quantum Computing, Databases and Cybersecurity.\
-✍️ &nbsp;In my free time, I like playing videogames and staying in tune with the world news.\
-✉️ &nbsp;You can send me an email at asierparraga@gmail.com! I'll try to respond as soon as I can.\
+✍️ &nbsp;In my free time, I like playing videogames, reading, and staying in tune with the world news.\
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -53,4 +52,5 @@
 <a href="https://www.linkedin.com/in/asier-p%C3%A1rraga-927895354/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:asierparraga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/asier.parraga/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/yt7uxuy7vb8xly8s44kgk6uo1"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
