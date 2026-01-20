@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Asier Párraga -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at the Sports Center of my family ([Nougym]([url](https://nougym.com))) as a personal trainer and coach.\
 💡 &nbsp;I like to explore new technologies and develop optimizing tools for my day to day tasks.\
@@ -39,7 +39,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Asier's GitHub stats](https://github-readme-stats.vercel.app/api?username=asierparraga&theme=gotham&show_icons=true)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asierparraga)](https://github.com/asierparraga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asierparraga&layout=compact&theme=gotham)](https://github.com/asierparraga/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
