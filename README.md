@@ -3,7 +3,7 @@
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2 align="left">Hello! My name is Asier Párraga Vicente.</h2>
+<h2 align="left">Hello! I am Asier Párraga Vicente.</h2>
 
 > "If you think you understand quantum mechanics, you don't understand quantum mechanics."
 >
