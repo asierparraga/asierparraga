@@ -23,12 +23,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asierparraga/asierparraga/output/github-contribution-grid-snake-dark.svg" alt="Snake Gotham" />
-</p>
----
-
 ## 🛠 Tech Stack
 
 #### 🔧 Languages
