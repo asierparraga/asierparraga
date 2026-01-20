@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <p align="center">
-  <img src="quantum.png" alt="Banner Computación Cuántica" width="100%" style="max-height: 300px; object-fit: cover;">
+  <img src="quantum.jpg" alt="Banner Computación Cuántica" width="100%" style="max-height: 300px; object-fit: cover;">
 </p>
 <h2 align="left">Hello! My name is Asier Párraga Vicente.</h2>
 
