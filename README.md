@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/asierparraga/asierparraga/output/github-contribution-grid-snake-dark.svg" alt="Snake Gotham" />
 </p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -62,8 +61,4 @@
   <a href="https://www.linkedin.com/in/asier-p%C3%A1rraga-927895354/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
   <a href="https://www.instagram.com/asier.parraga/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>    
   <a href="https://open.spotify.com/user/asierparraga"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasierparraga%2Fasierparraga&count_bg=%230984e3&title_bg=%230c1114&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false" alt="Hits"/>
 </p>
