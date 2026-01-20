@@ -63,6 +63,9 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asierparraga&layout=compact&theme=gotham" height="170" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asierparraga&theme=gotham" alt="GitHub Streak" />
+</p>
 
 ---
 
