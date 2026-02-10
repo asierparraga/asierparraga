@@ -41,14 +41,6 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asierparraga&theme=gotham&show_icons=true&cache_seconds=1800" height="170" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asierparraga&layout=compact&theme=gotham&cache_seconds=1800" height="170" />
-</p>
-
----
-
 ### 🤝🏻 Connect with Me
 <p align="center">
   <a href="mailto:asierparraga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
